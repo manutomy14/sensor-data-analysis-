@@ -62,14 +62,4 @@ This project explores **temporal patterns**, identifies **signal anomalies**, an
 Feel free to **fork**, **explore**, or **suggest improvements**.  
 This project is open to refinement and extension—whether through deep learning models, denoising filters, or alternative feature engineering.
 
----
-
-## 📂 Repository Structure
-
--/data/: Contains sensor_data.csv and BinSize.csv
--/notebooks/: Jupyter notebooks with analysis
--/scripts/: Python scripts for preprocessing and modeling
--/visuals/: Generated plots and maps
--/docs/: Documentation and README
-
 
